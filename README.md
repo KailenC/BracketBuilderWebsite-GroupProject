@@ -48,7 +48,7 @@ Go to the project directory
   cd BracketBuilderWebsite-GroupProject
 ```
 
-Run with Docker Compose
+Run with Docker Compose (May take a few minutes to start upon first run)
 
 ```bash
   docker compose up --build
